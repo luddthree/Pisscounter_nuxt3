@@ -12,7 +12,7 @@
             <!-- Hamburger menu icon -->
 
 
-            <img src="/static/logo.jpg" width="40" height="40">
+            <img src="logo.jpg" width="40" height="40">
 
           </button>
         </div>

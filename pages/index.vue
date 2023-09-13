@@ -58,9 +58,9 @@
             class="hidden bg-purple-500 hover:bg-purple-800 text-white font-bold py-2 px-4 rounded right-2">Sign
             up</button>
 
-          <img src="/static/pool.jpg" id="pool-image" height="150" width="250" class="hidden">
-        <img src="/static/pool.jpg" id="pool-image2" height="150" width="250" class="hidden lg:block">
-        <img src="/static/pool.jpg" id="pool-image3" height="150" width="250" class="hidden xl:block">
+          <img src="pool.jpg" id="pool-image" height="150" width="250" class="hidden">
+        <img src="pool.jpg" id="pool-image2" height="150" width="250" class="hidden lg:block">
+        <img src="pool.jpg" id="pool-image3" height="150" width="250" class="hidden xl:block">
         </div>
       </div>
 
