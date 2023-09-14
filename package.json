@@ -19,7 +19,11 @@
   "dependencies": {
     "es6-promise": "^4.2.8",
     "isomorphic-fetch": "^3.0.0",
+    "mysql": "^2.18.1",
+    "mysql2": "^3.6.1",
     "npx": "^3.0.0",
-    "nuxi": "^3.8.3"
+    "nuxi": "^3.8.3",
+    "sequelize": "^6.33.0",
+    "sequelize-cli": "^6.6.1"
   }
 }
