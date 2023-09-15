@@ -9,7 +9,13 @@
 
 
                 <div class=" rounded-xl ">
+                
 
+                    <!-- add div with image -->
+                    <div class="flex justify-center">
+                        <div class="m-2 mx-auto">
+                            <img src="https://i.imgur.com/2Z3QJ5M.png" alt="PissCounter Logo" class="rounded-2xl">
+                        </div>
 
                     <br>
 
