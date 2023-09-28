@@ -1,4 +1,7 @@
+# Not Finished!
 # Nuxt 3 Minimal Starter
+
+
 
 npm install --save-dev @nuxtjs/tailwindcss
 
